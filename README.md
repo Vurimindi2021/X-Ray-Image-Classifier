@@ -2,3 +2,8 @@
 
 # Proposal 1: 
 Developing a model to detect pneumonia & other lung diseases  in chest X-Ray images using convolution neural network (CNN), deep learning and computer-assisted diagnostics. This model will be trained, tested and validated using NIH's 100,000 anonymized chest x-ray images belongs to 30,000 patients including many with advanced lung diseases. This dataset is available at https://datashare.nida.nih.gov/study/nida-ctn-0046.
+
+
+# Proposal 2: 
+Developing a model to predict United States Supreme Court rulings using court opinions, transcripts using CNNRNN, NLP, and LSTM. This model will be trained, tested and valiadted using United States Supreme Court rulings using court opinions, and transcripts made available at: http://scdb.wustl.edu/data.php, https://github.com/freelawproject, https://case.law, https://www.supremecourt.gov/oral_arguments/argument_transcript/2020. 
+
