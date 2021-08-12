@@ -1,6 +1,6 @@
 ## Chest X-Ray Image Classifier
 
-I developed convolution neural network (CNN), deep learning and computer-assisted  diagnostics model to detect pneumonia & other lung diseases in chest X-Ray images. The model is trained, tested and validated using NIH's 100,000 anonymized chest x-ray images belongs to 30,000 patients including many with advanced lung diseases ['Atelectasis','Cardiomegaly','Consolidation', 'Edema','Effusion','Emphysema','Fibrosis','Hernia', 'Infiltration', 'Mass', 'NoFinding', 'Nodule', 'Pleural_Thickening', 'Pneumonia','Pneumothorax']. The X-Ray images are available at https://nihcc.app.box.com/v/ChestXray-NIHCC.
+I developed convolution neural network (CNN), deep learning and computer-assisted  diagnostics model to detect pneumonia & other lung diseases in chest X-Ray images. The model is trained, tested and validated using NIH's 100,000 anonymized chest x-ray images belongs to 30,000 patients including many with advanced lung diseases ['Atelectasis', 'Cardiomegaly', 'Consolidation', 'Edema', 'Effusion', 'Emphysema', 'Fibrosis', 'Hernia', 'Infiltration', 'Mass', 'NoFinding', 'Nodule', 'Pleural_Thickening', 'Pneumonia','Pneumothorax']. The X-Ray images are available at https://nihcc.app.box.com/v/ChestXray-NIHCC.
 
 # Sample Training Images
 ![matrix_images](https://user-images.githubusercontent.com/78239454/129116154-7f9469e4-e8bf-49bf-9a49-5af6b71036e0.png)
